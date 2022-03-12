@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Contate-me no e-mail : dbawesley@gmail.com
 -->
 
-- 🔭 Hoje trabalho como Database Administrator Microsoft SQL Server ...
+- 🔭 Database Administrator Microsoft SQL Server ...
 
 <div align="center">
   <a href="https://github.com/wesleydba">
