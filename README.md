@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&hide_progress=true"/>
-  <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&layout=pie"/>
 </a>
 
 
