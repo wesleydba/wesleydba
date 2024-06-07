@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 
 - 🔭 Database Administrator Microsoft SQL Server ...
 
-<div align="center">
-  <a href="https://github.com/wesleydba">
-  ##<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleydba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username==wesleydba)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<!--Abaixo para adicionar os icones , site dev icons. -->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-SQL" height="100" width="90" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wesleydba&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=wesleydba&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleydba&show_icons=true" />
+</picture>
 
 ##
 
