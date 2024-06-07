@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ![wesleydba's Stats](https://github-readme-stats.vercel.app/api?username=wesleydba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![wesleydba's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wesleydba&theme=vue-dark&hide_border=true)
 
 ##
 
