@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Contate-me no e-mail : dbawesley@gmail.com
 -->
 
-- 🔭 Database Administrator Microsoft SQL Server ...
+ 🔭 Database Administrator Microsoft SQL Server ...
 
 
 <!![wesleydba's Stats](https://github-readme-stats.vercel.app/api?username=wesleydba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)>
