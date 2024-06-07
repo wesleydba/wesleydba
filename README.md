@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&hide_progress=true"/>
 </a>
 
+![wesleydba's Stats](https://github-readme-stats.vercel.app/api?username=wesleydba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ##
 
