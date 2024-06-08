@@ -21,3 +21,12 @@ Here are some ideas to get you started:
   <!--Abaixo para adicionar os icones , site dev.to -->
   <a href="https://www.linkedin.com/in/wesleyalmeidacardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+
+
+# Administrador de Banco de dados
+
+Sou o Wesley Cardoso e sou Administrador de banco de dados Microsoft SQL Server.
+
+Esse github é para compartilhar e armazenar alguns script, caso venha a utilizar algum script faça primeiro o teste em um ambiente de homologação / desenvolvimento.
