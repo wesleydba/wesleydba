@@ -16,12 +16,13 @@ Here are some ideas to get you started:
  🔭 Database Administrator Microsoft SQL Server ...
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+
 
 ##
 
 <div>
   <!--Abaixo para adicionar os icones , site dev.to -->
   <a href="https://www.linkedin.com/in/wesleyalmeidacardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 
