@@ -13,17 +13,13 @@ Here are some ideas to get you started:
 - 💬 Contate-me no e-mail : dbawesley@gmail.com
 -->
 
- 🔭 Database Administrator Microsoft SQL Server ...
+
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  🔭 Database Administrator Microsoft SQL Server ... Este github é destinado para compartilhamento de script porém faça o uso de forma consciente e faça o teste em ambiente de homologação ou desenvolvimento.
 </p>
-
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##
