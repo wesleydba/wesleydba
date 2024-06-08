@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
  🔭 Database Administrator Microsoft SQL Server ...
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydba&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
 <div>
